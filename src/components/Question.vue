@@ -1,6 +1,6 @@
 <template>
     <div class="container text-center">
-        <div class="card" id="quiz">
+        <div class="card">
             <div class="card-body">
                 <h3 class="card-title text-center">{{question}}</h3>
                 <div class="card-text">
@@ -92,10 +92,7 @@ export default {
 }
 </script>
 
-<style scoped>
-#quiz{
-    left: 50%;
-}
-</style>
+
+
 
 
