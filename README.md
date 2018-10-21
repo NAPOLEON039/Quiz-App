@@ -1,6 +1,6 @@
-# quiz-app
+# Quiz App
 
-> Project created for implementing transitions
+> Learning project created for learning how to implement transitions.
 
 ## Build Setup
 
