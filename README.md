@@ -23,5 +23,3 @@ npm run build --report
 ```
 
 >Note: This project uses Vue 2.x. Even though the tutorial article written for this project says to use Vue 3.x, at the time this project was uploaded to GitHub, I was primarily using Vue 2.x.
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
